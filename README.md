@@ -74,4 +74,5 @@ streamlit run grade_calculator.py
 
 Your Name: arti marbade 
 
-GitHub: PASTE_YOUR_GITHUB_PROFILE_LINK_HERE
+GitHub: marbadearti7-spec
+
